@@ -14,7 +14,7 @@ U2322266B
 
 Autonomous robots are becoming a familiar sight in our daily lives, from robots delivering medicine in hospitals to those cleaning the floors in the university campus. Whatever their task, all these robots depend on their ability to navigate. Telling a robot where to go is usually done through coordinates or an image of the destination, but a user in real-world scenario may not have access to either (Dong et al., 2026). Therefore, a natural alternative is to describe it through words which can also convey landmarks and directions along the way. 
 
-This brings us to language-conditioned visual navigation (LCVN) (Dong et al., 2026), where a model predicts a robot's entire route from a single photo and instruction, with no further observations along the way. This task is part of the WorldNav category of the RoboWorld Challenge 2026, an ongoing challenge affiliated with NeurIPS 2026 (Figure A.1). The challenge comes with a live leaderboard where teams all over the world are scored on the same test set, giving us a benchmark for how our approach fared as compared to others. Furthermore, participants are provided an annotated dataset of real robot trajectories allowing us to focus on designing the model, while the official metrics and baseline models from the LCVN paper give us a clear target to measure against.
+This brings us to language-conditioned visual navigation (LCVN) (Dong et al., 2026), where a model predicts a robot's entire route from a single photo and instruction, with no further observations along the way. This task is part of the WorldNav category of the RoboWorld Challenge 2026, an ongoing challenge affiliated with NeurIPS 2026 (RoboWorld 2026, 2026; Figure A.1). The challenge comes with a live leaderboard where teams all over the world are scored on the same test set, giving us a benchmark for how our approach fared as compared to others. Furthermore, participants are provided an annotated dataset of real robot trajectories allowing us to focus on designing the model, while the official metrics and baseline models from the LCVN paper give us a clear target to measure against.
 
 In this report, we will share our process of iterating through our model designs and how we realised that a model which follows the instruction well may not perform well on the benchmark. Finally, we will explain how we adjusted our approach to perform better on the leaderboard. Our final submission scored 60.22, placing third out of 101 participants/groups on the leaderboard at the time of writing (Figure 4).
 
@@ -358,7 +358,7 @@ Zhu, F., Zhu, Y., Lee, V. C., Liang, X., & Chang, X. (2021). Deep learning for E
 
 ![Figure A.1 The competition page](figures/figA1_competition.png)
 
-Figure A.1: The RoboWorld 2026 Track 1 (WorldNav) competition page on CodaBench, 16 November 2026.
+Figure A.1: The RoboWorld 2026 Track 1 (WorldNav) competition page on CodaBench, 16 November 2026 (https://www.codabench.org/competitions/18185/).
 
 - Full run log: code/notes/runs.md.
 - How to run the code: code/README.md.
