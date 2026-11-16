@@ -1,0 +1,2030 @@
+{
+ "stanford": {
+  "height": 0.5065061159318094,
+  "focal": 134.25593784877233,
+  "tilt_deg": -4.752141370649117,
+  "n": 60,
+  "spread": {
+   "height": [
+    0.3912833922389936,
+    0.7049578246903709
+   ],
+   "focal": [
+    134.25593784877233,
+    134.25593784877233
+   ],
+   "tilt": [
+    -9.611238109389255,
+    -0.8329113727786457
+   ],
+   "scale": [
+    1.0,
+    1.0
+   ]
+  },
+  "undistorted": true,
+  "videos": [
+   {
+    "height": 0.4697817646818168,
+    "focal": 134.25593784877233,
+    "tilt": 2.971483810876688,
+    "scale": 1.0,
+    "inliers": 0.7002923976608187,
+    "trajectory": "train/no12vcF_4_0_3_0"
+   },
+   {
+    "height": 0.5025709406137033,
+    "focal": 134.25593784877233,
+    "tilt": 2.714386836122774,
+    "scale": 1.0,
+    "inliers": 0.6772138680033417,
+    "trajectory": "train/no9vcF_37_0_0_0"
+   },
+   {
+    "height": 0.37443966045909455,
+    "focal": 134.25593784877233,
+    "tilt": -1.663083757985504,
+    "scale": 1.0,
+    "inliers": 0.6078738512949039,
+    "trajectory": "train/sim38h_0_1_4_0"
+   },
+   {
+    "height": 0.3895324444418014,
+    "focal": 134.25593784877233,
+    "tilt": -5.112317967214817,
+    "scale": 1.0,
+    "inliers": 0.581453634085213,
+    "trajectory": "train/sim21hF_0_5_4_0"
+   },
+   {
+    "height": 0.6238195041905708,
+    "focal": 134.25593784877233,
+    "tilt": -4.514780051866017,
+    "scale": 1.0,
+    "inliers": 0.5664160401002506,
+    "trajectory": "train/no26vc_4_1_23_0"
+   },
+   {
+    "height": 0.9224135352652375,
+    "focal": 134.25593784877233,
+    "tilt": -6.62850816880548,
+    "scale": 1.0,
+    "inliers": 0.7034252297410192,
+    "trajectory": "train/no15vc_15_0_8_0"
+   },
+   {
+    "height": 0.478693948494937,
+    "focal": 134.25593784877233,
+    "tilt": -5.378083622383054,
+    "scale": 1.0,
+    "inliers": 0.5699665831244779,
+    "trajectory": "train/no16vc_36_0_27_0"
+   },
+   {
+    "height": 0.5279421686902458,
+    "focal": 134.25593784877233,
+    "tilt": 2.79912177219046,
+    "scale": 1.0,
+    "inliers": 0.764202172096909,
+    "trajectory": "train/no8vcF_27_0_2_0"
+   },
+   {
+    "height": 0.3091043193174703,
+    "focal": 134.25593784877233,
+    "tilt": 1.1200849812150668,
+    "scale": 1.0,
+    "inliers": 0.695906432748538,
+    "trajectory": "train/sim10h_0_11_4_0"
+   },
+   {
+    "height": 0.47719389994818495,
+    "focal": 134.25593784877233,
+    "tilt": 0.67718065335498,
+    "scale": 1.0,
+    "inliers": 0.5203634085213033,
+    "trajectory": "train/no4vc_134_0_3_0"
+   },
+   {
+    "height": 1.0299164748088516,
+    "focal": 134.25593784877233,
+    "tilt": -7.969252550989095,
+    "scale": 1.0,
+    "inliers": 0.5687134502923976,
+    "trajectory": "train/no15vc_35_1_0_0"
+   },
+   {
+    "height": 0.5083277533545829,
+    "focal": 134.25593784877233,
+    "tilt": -5.759018386868811,
+    "scale": 1.0,
+    "inliers": 0.7549081035923141,
+    "trajectory": "train/sim8h_0_27_3_0"
+   },
+   {
+    "height": 0.5154296161323138,
+    "focal": 134.25593784877233,
+    "tilt": -1.0789408021623734,
+    "scale": 1.0,
+    "inliers": 0.621031746031746,
+    "trajectory": "train/no12vc_25_0_9_0"
+   },
+   {
+    "height": 0.3515248520395737,
+    "focal": 134.25593784877233,
+    "tilt": 3.1714217147614807,
+    "scale": 1.0,
+    "inliers": 0.6461988304093568,
+    "trajectory": "train/no17vcF_5_2_9_0"
+   },
+   {
+    "height": 0.7264497615350642,
+    "focal": 134.25593784877233,
+    "tilt": -28.681570277316865,
+    "scale": 1.0,
+    "inliers": 0.6099624060150376,
+    "trajectory": "train/sim29hF_1_4_5_0"
+   },
+   {
+    "height": 0.9436379610961522,
+    "focal": 134.25593784877233,
+    "tilt": -15.812954915277349,
+    "scale": 1.0,
+    "inliers": 0.6811821219715957,
+    "trajectory": "train/no23vc_87_2_2_0"
+   },
+   {
+    "height": 0.5059526690640423,
+    "focal": 134.25593784877233,
+    "tilt": -3.326694397831517,
+    "scale": 1.0,
+    "inliers": 0.599937343358396,
+    "trajectory": "train/no13vc_5_2_6_0"
+   },
+   {
+    "height": 0.41395587043013704,
+    "focal": 134.25593784877233,
+    "tilt": -4.086552421261811,
+    "scale": 1.0,
+    "inliers": 0.781328320802005,
+    "trajectory": "train/sim24hF_1_1_1_0"
+   },
+   {
+    "height": 0.4195112532620169,
+    "focal": 134.25593784877233,
+    "tilt": -3.6452246363540364,
+    "scale": 1.0,
+    "inliers": 0.5658939014202172,
+    "trajectory": "train/sim23hF_0_0_2_0"
+   },
+   {
+    "height": 0.5045474799099771,
+    "focal": 134.25593784877233,
+    "tilt": -11.413587910197588,
+    "scale": 1.0,
+    "inliers": 0.5416666666666666,
+    "trajectory": "train/no32vcF_19_0_7_0"
+   },
+   {
+    "height": 1.013108608193565,
+    "focal": 134.25593784877233,
+    "tilt": -7.466878697790899,
+    "scale": 1.0,
+    "inliers": 0.6914160401002506,
+    "trajectory": "train/no26vc_23_0_4_0"
+   },
+   {
+    "height": 0.5290303484475571,
+    "focal": 134.25593784877233,
+    "tilt": -3.3508647676185173,
+    "scale": 1.0,
+    "inliers": 0.5272556390977443,
+    "trajectory": "train/no23vc_6_1_4_0"
+   },
+   {
+    "height": 0.666670076256117,
+    "focal": 134.25593784877233,
+    "tilt": -22.130222655931068,
+    "scale": 1.0,
+    "inliers": 0.593358395989975,
+    "trajectory": "train/sim30hF_1_1_8_0"
+   },
+   {
+    "height": 0.2842948276653518,
+    "focal": 134.25593784877233,
+    "tilt": 1.4851719295872292,
+    "scale": 1.0,
+    "inliers": 0.8093149540517962,
+    "trajectory": "train/sim23hF_1_6_9_0"
+   },
+   {
+    "height": 0.5058833089838586,
+    "focal": 134.25593784877233,
+    "tilt": -13.488454917281965,
+    "scale": 1.0,
+    "inliers": 0.6582080200501254,
+    "trajectory": "train/sim22h_0_1_4_0"
+   },
+   {
+    "height": 0.3726904356129103,
+    "focal": 134.25593784877233,
+    "tilt": -2.587002342705893,
+    "scale": 1.0,
+    "inliers": 0.6800334168755221,
+    "trajectory": "train/sim3hF_1_12_3_0"
+   },
+   {
+    "height": 0.6644793603999914,
+    "focal": 134.25593784877233,
+    "tilt": 1.9164069507095474,
+    "scale": 1.0,
+    "inliers": 0.754594820384294,
+    "trajectory": "train/no8vcF_49_1_2_0"
+   },
+   {
+    "height": 0.729590132103677,
+    "focal": 134.25593784877233,
+    "tilt": -1.3188517307844734,
+    "scale": 1.0,
+    "inliers": 0.5605680868838764,
+    "trajectory": "train/no24vcF_13_2_2_0"
+   },
+   {
+    "height": 0.7146997514186455,
+    "focal": 134.25593784877233,
+    "tilt": -4.974772890828208,
+    "scale": 1.0,
+    "inliers": 0.5782163742690059,
+    "trajectory": "train/no15vc_35_0_1_0"
+   },
+   {
+    "height": 0.4480638594659667,
+    "focal": 134.25593784877233,
+    "tilt": -1.188501159795569,
+    "scale": 1.0,
+    "inliers": 0.5697577276524645,
+    "trajectory": "train/no24vcF_13_1_4_0"
+   },
+   {
+    "height": 0.22608403956236695,
+    "focal": 134.25593784877233,
+    "tilt": 4.705806890149507,
+    "scale": 1.0,
+    "inliers": 0.6251044277360067,
+    "trajectory": "train/no23vc_2_0_2_0"
+   },
+   {
+    "height": 0.29949820488139234,
+    "focal": 134.25593784877233,
+    "tilt": -5.360720078033619,
+    "scale": 1.0,
+    "inliers": 0.5123224728487886,
+    "trajectory": "train/sim10h_0_21_4_0"
+   },
+   {
+    "height": 0.7402517871034381,
+    "focal": 134.25593784877233,
+    "tilt": -9.738117646535041,
+    "scale": 1.0,
+    "inliers": 0.5695488721804511,
+    "trajectory": "train/no29vc_34_1_3_0"
+   },
+   {
+    "height": 0.45377248577248996,
+    "focal": 134.25593784877233,
+    "tilt": -0.4631955596151786,
+    "scale": 1.0,
+    "inliers": 0.7198203842940685,
+    "trajectory": "train/no1vc_17_0_17_0"
+   },
+   {
+    "height": 0.11679169018510951,
+    "focal": 134.25593784877233,
+    "tilt": -24.03047723128315,
+    "scale": 1.0,
+    "inliers": 0.672514619883041,
+    "trajectory": "train/no31vcF_12_0_0_0"
+   },
+   {
+    "height": 0.38960279474630116,
+    "focal": 134.25593784877233,
+    "tilt": -0.7993072774981317,
+    "scale": 1.0,
+    "inliers": 0.7810150375939849,
+    "trajectory": "train/sim9hF_0_4_1_0"
+   },
+   {
+    "height": 0.3628946226502872,
+    "focal": 134.25593784877233,
+    "tilt": 4.566233716698588,
+    "scale": 1.0,
+    "inliers": 0.5446950710108605,
+    "trajectory": "train/no2vcF_22_0_1_0"
+   },
+   {
+    "height": 1.5373388151742835,
+    "focal": 134.25593784877233,
+    "tilt": -31.0229793417529,
+    "scale": 1.0,
+    "inliers": 0.6239557226399332,
+    "trajectory": "train/no23vc_72_0_3_0"
+   },
+   {
+    "height": 0.4710655976814068,
+    "focal": 134.25593784877233,
+    "tilt": -0.8441127378721504,
+    "scale": 1.0,
+    "inliers": 0.6803467000835421,
+    "trajectory": "train/no12vc_25_0_5_0"
+   },
+   {
+    "height": 0.7500592162299815,
+    "focal": 134.25593784877233,
+    "tilt": -2.5161272224267024,
+    "scale": 1.0,
+    "inliers": 0.7916666666666666,
+    "trajectory": "train/no4vcF_94_0_0_0"
+   },
+   {
+    "height": 1.0561081993600872,
+    "focal": 134.25593784877233,
+    "tilt": -10.28535235073338,
+    "scale": 1.0,
+    "inliers": 0.6417084377610693,
+    "trajectory": "train/no32vcF_9_0_4_0"
+   },
+   {
+    "height": 0.581604753991495,
+    "focal": 134.25593784877233,
+    "tilt": -1.0242379814338753,
+    "scale": 1.0,
+    "inliers": 0.5927318295739349,
+    "trajectory": "train/no23vc_83_0_2_0"
+   },
+   {
+    "height": 0.48435603034452607,
+    "focal": 134.25593784877233,
+    "tilt": -7.282406522889984,
+    "scale": 1.0,
+    "inliers": 0.6368003341687553,
+    "trajectory": "train/sim2hF_0_39_5_0"
+   },
+   {
+    "height": 0.37377184318318507,
+    "focal": 134.25593784877233,
+    "tilt": -4.619934469480886,
+    "scale": 1.0,
+    "inliers": 0.7456140350877193,
+    "trajectory": "train/no4vcF_40_1_11_0"
+   },
+   {
+    "height": 0.5876811182416838,
+    "focal": 134.25593784877233,
+    "tilt": -32.50923334537284,
+    "scale": 1.0,
+    "inliers": 0.518483709273183,
+    "trajectory": "train/no24vcF_20_0_3_0"
+   },
+   {
+    "height": 0.701710515780946,
+    "focal": 134.25593784877233,
+    "tilt": -2.1438726757341713,
+    "scale": 1.0,
+    "inliers": 0.7012322472848789,
+    "trajectory": "train/no3vc_21_0_2_0"
+   },
+   {
+    "height": 0.30663467958348134,
+    "focal": 134.25593784877233,
+    "tilt": -15.520909852638807,
+    "scale": 1.0,
+    "inliers": 0.5173350041771094,
+    "trajectory": "train/sim10hF_0_4_0_0"
+   },
+   {
+    "height": 0.6977036303908812,
+    "focal": 134.25593784877233,
+    "tilt": -7.472131036715371,
+    "scale": 1.0,
+    "inliers": 0.5149331662489557,
+    "trajectory": "train/no6vcF_49_0_1_0"
+   },
+   {
+    "height": 0.38786610586829406,
+    "focal": 134.25593784877233,
+    "tilt": -12.502553827459273,
+    "scale": 1.0,
+    "inliers": 0.5135756056808688,
+    "trajectory": "train/no15vc_45_1_5_0"
+   },
+   {
+    "height": 0.6309641604804919,
+    "focal": 134.25593784877233,
+    "tilt": -0.6792047865741618,
+    "scale": 1.0,
+    "inliers": 0.6229114452798663,
+    "trajectory": "train/no3vc_70_0_5_0"
+   },
+   {
+    "height": 0.8942597827022102,
+    "focal": 134.25593784877233,
+    "tilt": -8.370973558439989,
+    "scale": 1.0,
+    "inliers": 0.7003968253968254,
+    "trajectory": "train/no32vc_19_0_6_0"
+   },
+   {
+    "height": 1.3648618539382256,
+    "focal": 134.25593784877233,
+    "tilt": -18.72025837178862,
+    "scale": 1.0,
+    "inliers": 0.5279866332497911,
+    "trajectory": "train/no15vcF_58_0_6_0"
+   },
+   {
+    "height": 0.5653782176627545,
+    "focal": 134.25593784877233,
+    "tilt": -16.4175957712869,
+    "scale": 1.0,
+    "inliers": 0.5512740183792816,
+    "trajectory": "train/sim1h_0_2_0_0"
+   },
+   {
+    "height": 0.5314285932972794,
+    "focal": 134.25593784877233,
+    "tilt": -4.884348271817348,
+    "scale": 1.0,
+    "inliers": 0.5952380952380952,
+    "trajectory": "train/no27vc_26_0_6_0"
+   },
+   {
+    "height": 0.8219368682584163,
+    "focal": 134.25593784877233,
+    "tilt": -5.679355908504339,
+    "scale": 1.0,
+    "inliers": 0.7751670843776107,
+    "trajectory": "train/no8vc_5_1_34_0"
+   },
+   {
+    "height": 0.3205971266927257,
+    "focal": 134.25593784877233,
+    "tilt": -9.790423922569296,
+    "scale": 1.0,
+    "inliers": 0.6284461152882206,
+    "trajectory": "train/no31vcF_10_0_3_0"
+   },
+   {
+    "height": 0.5070595627995763,
+    "focal": 134.25593784877233,
+    "tilt": -7.083336722614347,
+    "scale": 1.0,
+    "inliers": 0.5787385129490392,
+    "trajectory": "train/no26vc_4_1_17_0"
+   },
+   {
+    "height": 1.0453470787066614,
+    "focal": 134.25593784877233,
+    "tilt": -9.56894493034066,
+    "scale": 1.0,
+    "inliers": 0.746031746031746,
+    "trajectory": "train/no11vcF_24_1_5_0"
+   },
+   {
+    "height": 0.39184359140322444,
+    "focal": 134.25593784877233,
+    "tilt": 3.620806738439379,
+    "scale": 1.0,
+    "inliers": 0.5130534670008354,
+    "trajectory": "train/no1vcF_7_0_2_0"
+   },
+   {
+    "height": 0.39932504032310623,
+    "focal": 134.25593784877233,
+    "tilt": 3.54048462169615,
+    "scale": 1.0,
+    "inliers": 0.5332080200501254,
+    "trajectory": "train/no12vc_30_0_6_0"
+   }
+  ]
+ },
+ "scand": {
+  "height": 0.7702904965805397,
+  "focal": 201.000002906436,
+  "tilt_deg": -0.6737832875036374,
+  "n": 60,
+  "spread": {
+   "height": [
+    0.7289385875377443,
+    0.8292575042757151
+   ],
+   "focal": [
+    201.000002906436,
+    201.000002906436
+   ],
+   "tilt": [
+    -1.5184202446118717,
+    0.3085933665089441
+   ],
+   "scale": [
+    1.0,
+    1.0
+   ]
+  },
+  "undistorted": false,
+  "videos": [
+   {
+    "height": 0.792907150265397,
+    "focal": 201.000002906436,
+    "tilt": 0.40658137774400027,
+    "scale": 1.0,
+    "inliers": 0.841060985797828,
+    "trajectory": "train/random_mdps_A_Spot_Welch_Union_Thu_Nov_11_71_2_12_0"
+   },
+   {
+    "height": 0.8728464184558716,
+    "focal": 201.000002906436,
+    "tilt": -1.7115650626874854,
+    "scale": 1.0,
+    "inliers": 0.9847535505430243,
+    "trajectory": "train/random_mdps_C_Spot_Tent_AHG_Fri_Nov_26_130_4_12_0"
+   },
+   {
+    "height": 0.7685679544670759,
+    "focal": 201.000002906436,
+    "tilt": -0.2703624005682384,
+    "scale": 1.0,
+    "inliers": 0.970342522974102,
+    "trajectory": "train/random_mdps_C_Spot_Rec_Bass_Fri_Nov_26_127_2_64_0"
+   },
+   {
+    "height": 0.8411782423968992,
+    "focal": 201.000002906436,
+    "tilt": -0.7148217816884185,
+    "scale": 1.0,
+    "inliers": 0.9572890559732665,
+    "trajectory": "train/random_mdps_B_Spot_RLM_OsCafe_Mon_Nov_15_117_0_13_0"
+   },
+   {
+    "height": 0.7474034755943421,
+    "focal": 201.000002906436,
+    "tilt": 0.7984077050691311,
+    "scale": 1.0,
+    "inliers": 0.8288429406850459,
+    "trajectory": "train/random_mdps_B_Spot_Union_SAC_Mon_Nov_15_112_0_7_0"
+   },
+   {
+    "height": 0.8501233153978979,
+    "focal": 201.000002906436,
+    "tilt": -1.3589580815241014,
+    "scale": 1.0,
+    "inliers": 0.9139515455304928,
+    "trajectory": "train/random_mdps_B_Spot_Hogg_GDC_Mon_Nov_15_115_0_27_0"
+   },
+   {
+    "height": 0.8823053735217435,
+    "focal": 201.000002906436,
+    "tilt": -6.163996851129943,
+    "scale": 1.0,
+    "inliers": 1.0,
+    "trajectory": "train/random_mdps_B_Spot_Hogg_GDC_Mon_Nov_15_115_0_57_0"
+   },
+   {
+    "height": 0.8800708056770677,
+    "focal": 201.000002906436,
+    "tilt": -1.2443854554740814,
+    "scale": 1.0,
+    "inliers": 0.9520676691729323,
+    "trajectory": "train/random_mdps_A_Spot_Jester_Jester_Wed_Nov_10_63_0_8_0"
+   },
+   {
+    "height": 0.7593068948567014,
+    "focal": 201.000002906436,
+    "tilt": 0.35893596136504224,
+    "scale": 1.0,
+    "inliers": 0.9652255639097744,
+    "trajectory": "train/random_mdps_B_Spot_AHG_Library_Mon_Nov_15_107_1_1_0"
+   },
+   {
+    "height": 0.9091511093210414,
+    "focal": 201.000002906436,
+    "tilt": 0.3077756507114742,
+    "scale": 1.0,
+    "inliers": 0.9950918964076859,
+    "trajectory": "train/random_mdps_A_Spot_Library_Fountain_Tue_Nov_9_35_0_0_0"
+   },
+   {
+    "height": 0.5800781429367472,
+    "focal": 201.000002906436,
+    "tilt": 2.0267250988144867,
+    "scale": 1.0,
+    "inliers": 0.7198203842940685,
+    "trajectory": "train/random_mdps_B_Spot_AHG_Library_Tue_Nov_9_34_0_43_0"
+   },
+   {
+    "height": 0.7721473935974723,
+    "focal": 201.000002906436,
+    "tilt": -0.8075680328433681,
+    "scale": 1.0,
+    "inliers": 0.8438805346700083,
+    "trajectory": "train/random_mdps_B_Spot_Library_MCCombs_Wed_Nov_10_47_0_24_0"
+   },
+   {
+    "height": 0.5386084176623627,
+    "focal": 201.000002906436,
+    "tilt": 1.0908255620216207,
+    "scale": 1.0,
+    "inliers": 0.8558897243107769,
+    "trajectory": "train/random_mdps_B_Spot_Fountain_Union_Tue_Nov_9_36_0_0_0"
+   },
+   {
+    "height": 0.5830053167587086,
+    "focal": 201.000002906436,
+    "tilt": 1.9725958488186288,
+    "scale": 1.0,
+    "inliers": 0.8130743525480367,
+    "trajectory": "train/random_mdps_A_Spot_AHG_GDC_Tue_Nov_9_41_0_3_0"
+   },
+   {
+    "height": 0.8282975119278652,
+    "focal": 201.000002906436,
+    "tilt": -11.520156603584205,
+    "scale": 1.0,
+    "inliers": 1.0,
+    "trajectory": "train/random_mdps_A_Jackal_AHG_Library_Thu_Oct_28_2_0_33_0"
+   },
+   {
+    "height": 0.6621488510056631,
+    "focal": 201.000002906436,
+    "tilt": -11.597819848930095,
+    "scale": 1.0,
+    "inliers": 1.0,
+    "trajectory": "train/random_mdps_A_Jackal_Library_AHG_Thu_Oct_28_4_0_58_0"
+   },
+   {
+    "height": 0.802696573745685,
+    "focal": 201.000002906436,
+    "tilt": -0.25956529099834347,
+    "scale": 1.0,
+    "inliers": 0.8822055137844611,
+    "trajectory": "train/random_mdps_A_Spot_AHG_Library_Fri_Nov_5_21_3_21_0"
+   },
+   {
+    "height": 0.7686686088738736,
+    "focal": 201.000002906436,
+    "tilt": -0.035150303811225275,
+    "scale": 1.0,
+    "inliers": 0.956453634085213,
+    "trajectory": "train/random_mdps_A_Spot_Library_AHG_Thu_Nov_4_22_0_17_0"
+   },
+   {
+    "height": 0.8973128573762222,
+    "focal": 201.000002906436,
+    "tilt": -2.737312490658005,
+    "scale": 1.0,
+    "inliers": 0.6570593149540518,
+    "trajectory": "train/random_mdps_A_Spot_Welch_Union_Thu_Nov_11_71_2_17_0"
+   },
+   {
+    "height": 1.128463929633417,
+    "focal": 201.000002906436,
+    "tilt": -3.6375863596544185,
+    "scale": 1.0,
+    "inliers": 0.5525271512113618,
+    "trajectory": "train/random_mdps_B_Spot_Library_SAC_Thu_Nov_11_69_17_5_0"
+   },
+   {
+    "height": 0.7235552440612021,
+    "focal": 201.000002906436,
+    "tilt": 0.3400688465044999,
+    "scale": 1.0,
+    "inliers": 0.9411027568922306,
+    "trajectory": "train/random_mdps_B_Spot_NHB_Union_Mon_Nov_15_114_2_5_0"
+   },
+   {
+    "height": 1.1675537545090544,
+    "focal": 201.000002906436,
+    "tilt": -5.413495234828765,
+    "scale": 1.0,
+    "inliers": 0.8594402673350042,
+    "trajectory": "train/random_mdps_B_Spot_SAC_SAC_Wed_Nov_10_49_0_5_0"
+   },
+   {
+    "height": 0.5971555720799306,
+    "focal": 201.000002906436,
+    "tilt": 0.5733268545327477,
+    "scale": 1.0,
+    "inliers": 0.9632414369256475,
+    "trajectory": "train/random_mdps_B_Spot_Library_EER_Tue_Nov_9_38_2_49_0"
+   },
+   {
+    "height": 0.7314246464015091,
+    "focal": 201.000002906436,
+    "tilt": -0.7449021775227259,
+    "scale": 1.0,
+    "inliers": 0.9385964912280702,
+    "trajectory": "train/random_mdps_C_Spot_Speedway_Butler_Fri_Nov_26_131_6_14_0"
+   },
+   {
+    "height": 0.6287246344097397,
+    "focal": 201.000002906436,
+    "tilt": 0.3110465139013537,
+    "scale": 1.0,
+    "inliers": 0.9623015873015873,
+    "trajectory": "train/random_mdps_A_Spot_AHG_Library_Wed_Nov_10_46_0_53_0"
+   },
+   {
+    "height": 0.9777887957154386,
+    "focal": 201.000002906436,
+    "tilt": -18.240788205190423,
+    "scale": 1.0,
+    "inliers": 1.0,
+    "trajectory": "train/random_mdps_C_Spot_Speedway_Butler_Fri_Nov_26_131_6_2_0"
+   },
+   {
+    "height": 0.8838826236056464,
+    "focal": 201.000002906436,
+    "tilt": -2.99086912955935,
+    "scale": 1.0,
+    "inliers": 0.9840225563909775,
+    "trajectory": "train/random_mdps_B_Spot_Union_Dobie_Thu_Nov_11_72_7_3_0"
+   },
+   {
+    "height": 0.7700408359290138,
+    "focal": 201.000002906436,
+    "tilt": 0.2509945834711986,
+    "scale": 1.0,
+    "inliers": 0.9659565580618212,
+    "trajectory": "train/random_mdps_A_Spot_Library_AHG_Mon_Nov_8_28_3_3_0"
+   },
+   {
+    "height": 0.5687026436413047,
+    "focal": 201.000002906436,
+    "tilt": -13.018452838766244,
+    "scale": 1.0,
+    "inliers": 1.0,
+    "trajectory": "train/random_mdps_A_Jackal_Library_Fountain_Fri_Oct_29_10_0_0_0"
+   },
+   {
+    "height": 0.7736699923843615,
+    "focal": 201.000002906436,
+    "tilt": -0.9789162672485722,
+    "scale": 1.0,
+    "inliers": 0.8906641604010025,
+    "trajectory": "train/random_mdps_B_Spot_JCL_JCL_Mon_Nov_15_108_77_4_0"
+   },
+   {
+    "height": 0.7016312131625794,
+    "focal": 201.000002906436,
+    "tilt": 0.7910119449763133,
+    "scale": 1.0,
+    "inliers": 0.7504177109440268,
+    "trajectory": "train/random_mdps_B_Spot_Fountain_Library_Mon_Nov_8_31_0_1_0"
+   },
+   {
+    "height": 0.816632616564601,
+    "focal": 201.000002906436,
+    "tilt": -1.515729906494805,
+    "scale": 1.0,
+    "inliers": 0.9766081871345029,
+    "trajectory": "train/random_mdps_C_Spot_Tent_AHG_Fri_Nov_26_130_4_33_0"
+   },
+   {
+    "height": 0.8152770180542928,
+    "focal": 201.000002906436,
+    "tilt": -0.9267659130771392,
+    "scale": 1.0,
+    "inliers": 0.9502923976608187,
+    "trajectory": "train/random_mdps_B_Spot_Greg_Ahg_Thu_Nov_11_78_0_47_0"
+   },
+   {
+    "height": 0.7471444574501138,
+    "focal": 201.000002906436,
+    "tilt": -0.09636051465620436,
+    "scale": 1.0,
+    "inliers": 0.9598997493734336,
+    "trajectory": "train/random_mdps_B_Spot_AHG_Library_Mon_Nov_15_107_1_39_0"
+   },
+   {
+    "height": 0.7947155539662043,
+    "focal": 201.000002906436,
+    "tilt": -0.5190303457740106,
+    "scale": 1.0,
+    "inliers": 0.9424603174603174,
+    "trajectory": "train/random_mdps_B_Spot_Greg_Ahg_Thu_Nov_11_78_0_27_0"
+   },
+   {
+    "height": 0.8097630128892254,
+    "focal": 201.000002906436,
+    "tilt": -0.6630088273597393,
+    "scale": 1.0,
+    "inliers": 0.9965538847117794,
+    "trajectory": "train/random_mdps_A_Spot_Library_AHG_Fri_Nov_12_86_0_3_0"
+   },
+   {
+    "height": 0.6840781447437889,
+    "focal": 201.000002906436,
+    "tilt": 1.828884074372775,
+    "scale": 1.0,
+    "inliers": 0.8280075187969925,
+    "trajectory": "train/random_mdps_A_Spot_Dobie_Fountain_Fri_Nov_12_84_0_10_0"
+   },
+   {
+    "height": 0.771183392165311,
+    "focal": 201.000002906436,
+    "tilt": -1.526491258963072,
+    "scale": 1.0,
+    "inliers": 0.7461361737677528,
+    "trajectory": "train/random_mdps_B_Spot_Union_SAC_Mon_Nov_15_112_3_14_0"
+   },
+   {
+    "height": 0.7254472873335661,
+    "focal": 201.000002906436,
+    "tilt": -0.6817684293654388,
+    "scale": 1.0,
+    "inliers": 0.9506056808688388,
+    "trajectory": "train/random_mdps_B_Spot_Library_Jester_Thu_Nov_11_75_2_4_0"
+   },
+   {
+    "height": 0.8020176715165395,
+    "focal": 201.000002906436,
+    "tilt": -0.3249518669702993,
+    "scale": 1.0,
+    "inliers": 0.8830409356725146,
+    "trajectory": "train/random_mdps_B_Spot_Dobie_Library_Thu_Nov_11_74_3_17_0"
+   },
+   {
+    "height": 0.7449545143263452,
+    "focal": 201.000002906436,
+    "tilt": 1.1679821632856928,
+    "scale": 1.0,
+    "inliers": 0.9013157894736842,
+    "trajectory": "train/random_mdps_C_Spot_Speedway_Butler_Fri_Nov_26_131_6_48_0"
+   },
+   {
+    "height": 0.7351296248599017,
+    "focal": 201.000002906436,
+    "tilt": -0.05354287283673924,
+    "scale": 1.0,
+    "inliers": 0.9813074352548037,
+    "trajectory": "train/random_mdps_B_Spot_AHG_Library_Mon_Nov_15_107_1_11_0"
+   },
+   {
+    "height": 0.8084023164911563,
+    "focal": 201.000002906436,
+    "tilt": 0.2300683176835914,
+    "scale": 1.0,
+    "inliers": 0.9689849624060151,
+    "trajectory": "train/random_mdps_B_Spot_NHB_Union_Mon_Nov_15_114_3_23_0"
+   },
+   {
+    "height": 0.7705401572320656,
+    "focal": 201.000002906436,
+    "tilt": -0.31913653002083014,
+    "scale": 1.0,
+    "inliers": 0.9060150375939849,
+    "trajectory": "train/random_mdps_B_Spot_Library_EER_Tue_Nov_9_38_2_41_0"
+   },
+   {
+    "height": 0.7284204627022127,
+    "focal": 201.000002906436,
+    "tilt": -1.0072736680657366,
+    "scale": 1.0,
+    "inliers": 0.9757727652464494,
+    "trajectory": "train/random_mdps_A_Spot_AHG_Library_Mon_Nov_8_24_0_60_0"
+   },
+   {
+    "height": 0.7634039434596656,
+    "focal": 201.000002906436,
+    "tilt": -0.20502027085441182,
+    "scale": 1.0,
+    "inliers": 0.7200292397660819,
+    "trajectory": "train/random_mdps_B_Spot_Thompson_Thompson_Sat_Nov_13_100_0_19_0"
+   },
+   {
+    "height": 0.6620178653205163,
+    "focal": 201.000002906436,
+    "tilt": -1.1074525675988278,
+    "scale": 1.0,
+    "inliers": 0.7392439431913116,
+    "trajectory": "train/random_mdps_A_Spot_EERC_Ahg_Thu_Nov_11_80_0_6_0"
+   },
+   {
+    "height": 0.7291112958162549,
+    "focal": 201.000002906436,
+    "tilt": 1.4518195645374712,
+    "scale": 1.0,
+    "inliers": 0.8988095238095238,
+    "trajectory": "train/random_mdps_A_Spot_Butler_Foodtruck_Fri_Nov_26_132_0_29_0"
+   },
+   {
+    "height": 0.9248800538121462,
+    "focal": 201.000002906436,
+    "tilt": -0.037627438587300784,
+    "scale": 1.0,
+    "inliers": 0.7370509607351713,
+    "trajectory": "train/random_mdps_A_Spot_Fountain_Dobie_Fri_Nov_12_83_0_7_0"
+   },
+   {
+    "height": 0.8018249359492894,
+    "focal": 201.000002906436,
+    "tilt": -1.0176643150820188,
+    "scale": 1.0,
+    "inliers": 0.9537385129490392,
+    "trajectory": "train/random_mdps_B_Spot_GDC_AHG_Mon_Nov_15_116_0_12_0"
+   },
+   {
+    "height": 0.7400872799922291,
+    "focal": 201.000002906436,
+    "tilt": -1.2430906046735837,
+    "scale": 1.0,
+    "inliers": 0.99968671679198,
+    "trajectory": "train/random_mdps_A_Spot_AHG_Library_Fri_Nov_5_21_4_52_0"
+   },
+   {
+    "height": 0.7991235088314573,
+    "focal": 201.000002906436,
+    "tilt": -0.9342084154306178,
+    "scale": 1.0,
+    "inliers": 0.9193817878028404,
+    "trajectory": "train/random_mdps_A_Spot_GDC_Jester_Thu_Nov_18_121_0_13_0"
+   },
+   {
+    "height": 0.8321374813192649,
+    "focal": 201.000002906436,
+    "tilt": 0.3402476252806187,
+    "scale": 1.0,
+    "inliers": 0.6048454469507101,
+    "trajectory": "train/random_mdps_B_Spot_Fountain_Library_Mon_Nov_8_31_0_2_0"
+   },
+   {
+    "height": 0.7399927947345721,
+    "focal": 201.000002906436,
+    "tilt": -0.7871103118933633,
+    "scale": 1.0,
+    "inliers": 0.9753550543024228,
+    "trajectory": "train/random_mdps_B_Spot_Library_EER_Tue_Nov_9_38_0_16_0"
+   },
+   {
+    "height": 0.6632060402579492,
+    "focal": 201.000002906436,
+    "tilt": 0.3967224945084337,
+    "scale": 1.0,
+    "inliers": 0.633563074352548,
+    "trajectory": "train/random_mdps_B_Spot_Library_MCCombs_Wed_Nov_10_47_0_8_0"
+   },
+   {
+    "height": 1.9843049809826958,
+    "focal": 201.000002906436,
+    "tilt": -4.579637380477399,
+    "scale": 1.0,
+    "inliers": 0.9500835421888053,
+    "trajectory": "train/random_mdps_A_Spot_AHG_AHG_Mon_Nov_8_27_23_4_0"
+   },
+   {
+    "height": 0.6214361319704206,
+    "focal": 201.000002906436,
+    "tilt": -10.192059261634189,
+    "scale": 1.0,
+    "inliers": 0.9993734335839599,
+    "trajectory": "train/random_mdps_B_Jackal_GDC_Library_Sat_Nov_13_87_0_8_0"
+   },
+   {
+    "height": 0.7457051025199304,
+    "focal": 201.000002906436,
+    "tilt": -0.6657981456418358,
+    "scale": 1.0,
+    "inliers": 0.9507101086048454,
+    "trajectory": "train/random_mdps_A_Spot_Library_AHG_Mon_Nov_8_33_45_31_0"
+   },
+   {
+    "height": 0.8460945885506629,
+    "focal": 201.000002906436,
+    "tilt": -1.5948413565597166,
+    "scale": 1.0,
+    "inliers": 0.6526733500417711,
+    "trajectory": "train/random_mdps_A_Spot_Dobie_Littlefield_Wed_Nov_10_58_0_11_0"
+   },
+   {
+    "height": 0.7697547541948719,
+    "focal": 201.000002906436,
+    "tilt": -11.879637914362673,
+    "scale": 1.0,
+    "inliers": 1.0,
+    "trajectory": "train/random_mdps_A_Jackal_Library_AHG_Thu_Oct_28_4_0_53_0"
+   }
+  ]
+ },
+ "huron": {
+  "height": 0.25538058666893787,
+  "focal": 134.25593784877233,
+  "tilt_deg": -5.6156888699122245,
+  "n": 60,
+  "spread": {
+   "height": [
+    0.21106271933960313,
+    0.3256805583358036
+   ],
+   "focal": [
+    134.25593784877233,
+    134.25593784877233
+   ],
+   "tilt": [
+    -8.201781732055684,
+    -2.2106289615411177
+   ],
+   "scale": [
+    1.0,
+    1.0
+   ]
+  },
+  "undistorted": true,
+  "videos": [
+   {
+    "height": 0.2081273530093034,
+    "focal": 134.25593784877233,
+    "tilt": -5.6520037884832846,
+    "scale": 1.0,
+    "inliers": 0.9711779448621554,
+    "trajectory": "train/Feb-17-2023-bww2_00000000_0_4_0"
+   },
+   {
+    "height": 0.2550533764986679,
+    "focal": 134.25593784877233,
+    "tilt": -1.0611992414749467,
+    "scale": 1.0,
+    "inliers": 0.841060985797828,
+    "trajectory": "train/Feb-16-2023-cory1-intloss_00000013_3_1_0"
+   },
+   {
+    "height": 0.3582179672222538,
+    "focal": 134.25593784877233,
+    "tilt": -23.505338484743394,
+    "scale": 1.0,
+    "inliers": 0.85421888053467,
+    "trajectory": "train/Dec-06-2022-bww8_00000030_0_2_0"
+   },
+   {
+    "height": 1.1160209833213348,
+    "focal": 134.25593784877233,
+    "tilt": -30.669157437696512,
+    "scale": 1.0,
+    "inliers": 0.6287593984962406,
+    "trajectory": "train/Dec-12-2022-bww8_00000004_0_8_0"
+   },
+   {
+    "height": 0.2933792624207369,
+    "focal": 134.25593784877233,
+    "tilt": -6.933150338676853,
+    "scale": 1.0,
+    "inliers": 0.9281537176274018,
+    "trajectory": "train/Feb-06-2023-bww8-intloss_00000012_0_3_0"
+   },
+   {
+    "height": 0.164833057803539,
+    "focal": 134.25593784877233,
+    "tilt": 2.088339642475723,
+    "scale": 1.0,
+    "inliers": 0.6350250626566416,
+    "trajectory": "train/Feb-20-2023-bww2-intloss_00000022_3_2_0"
+   },
+   {
+    "height": 0.28868473426722435,
+    "focal": 134.25593784877233,
+    "tilt": -3.793309147344959,
+    "scale": 1.0,
+    "inliers": 0.945906432748538,
+    "trajectory": "train/Feb-23-2023-soda3-intloss_00000013_1_9_0"
+   },
+   {
+    "height": 0.6256343615169723,
+    "focal": 134.25593784877233,
+    "tilt": -19.40304308657898,
+    "scale": 1.0,
+    "inliers": 0.7990810359231412,
+    "trajectory": "train/Feb-23-2023-soda3-intloss_00000013_11_0_0"
+   },
+   {
+    "height": 0.19835481585084472,
+    "focal": 134.25593784877233,
+    "tilt": -3.4767918056713456,
+    "scale": 1.0,
+    "inliers": 0.7889515455304928,
+    "trajectory": "train/Feb-16-2023-bww1-intloss_00000012_3_0_0"
+   },
+   {
+    "height": 0.2919866378346079,
+    "focal": 134.25593784877233,
+    "tilt": -3.8657034483536523,
+    "scale": 1.0,
+    "inliers": 0.6911027568922306,
+    "trajectory": "train/Feb-16-2023-bww1-intloss_00000017_0_5_0"
+   },
+   {
+    "height": 0.46662878243907563,
+    "focal": 134.25593784877233,
+    "tilt": -11.069786247035898,
+    "scale": 1.0,
+    "inliers": 0.6275062656641605,
+    "trajectory": "train/Feb-09-2023-bww8-intloss_00000038_1_0_0"
+   },
+   {
+    "height": 0.13412413195113185,
+    "focal": 134.25593784877233,
+    "tilt": -6.766448161102837,
+    "scale": 1.0,
+    "inliers": 0.8833542188805347,
+    "trajectory": "train/Dec-06-2022-bww8_00000039_3_0_0"
+   },
+   {
+    "height": 0.14500034799405723,
+    "focal": 134.25593784877233,
+    "tilt": 0.6503445353005041,
+    "scale": 1.0,
+    "inliers": 0.8105680868838764,
+    "trajectory": "train/Feb-20-2023-bww2-intloss_00000030_1_3_0"
+   },
+   {
+    "height": 0.4474220040598933,
+    "focal": 134.25593784877233,
+    "tilt": -19.488315742483604,
+    "scale": 1.0,
+    "inliers": 0.997702589807853,
+    "trajectory": "train/Feb-09-2023-bww8-intloss_00000003_4_5_0"
+   },
+   {
+    "height": 0.3040401133164077,
+    "focal": 134.25593784877233,
+    "tilt": -8.987085401905242,
+    "scale": 1.0,
+    "inliers": 0.6686507936507936,
+    "trajectory": "train/Feb-20-2023-bww2-intloss_00000011_1_4_0"
+   },
+   {
+    "height": 0.32431172938797104,
+    "focal": 134.25593784877233,
+    "tilt": -8.135935266927204,
+    "scale": 1.0,
+    "inliers": 0.8586048454469507,
+    "trajectory": "train/Feb-03-2023-bww8-intloss_00000005_0_4_0"
+   },
+   {
+    "height": 0.22710385473515332,
+    "focal": 134.25593784877233,
+    "tilt": -1.6676081292281857,
+    "scale": 1.0,
+    "inliers": 0.8896198830409356,
+    "trajectory": "train/Feb-17-2023-soda3_00000007_1_16_0"
+   },
+   {
+    "height": 0.36918466899228586,
+    "focal": 134.25593784877233,
+    "tilt": -9.470746279668154,
+    "scale": 1.0,
+    "inliers": 0.9780701754385965,
+    "trajectory": "train/Jan-16-2023-bww8_00000003_15_2_0"
+   },
+   {
+    "height": 0.2358853354476862,
+    "focal": 134.25593784877233,
+    "tilt": -1.231932505602777,
+    "scale": 1.0,
+    "inliers": 0.5622389306599833,
+    "trajectory": "train/Feb-16-2023-bww1-intloss_00000001_8_0_0"
+   },
+   {
+    "height": 0.19391290371284783,
+    "focal": 134.25593784877233,
+    "tilt": -3.8058656427296267,
+    "scale": 1.0,
+    "inliers": 0.9022556390977443,
+    "trajectory": "train/Feb-14-2023-bww8-intloss_00000006_1_8_0"
+   },
+   {
+    "height": 0.36714367206561843,
+    "focal": 134.25593784877233,
+    "tilt": -10.080068888070594,
+    "scale": 1.0,
+    "inliers": 0.9748329156223893,
+    "trajectory": "train/Feb-03-2023-bww8-intloss_00000013_0_0_0"
+   },
+   {
+    "height": 0.23368195794232988,
+    "focal": 134.25593784877233,
+    "tilt": -2.8613084108450204,
+    "scale": 1.0,
+    "inliers": 0.7846700083542189,
+    "trajectory": "train/Dec-06-2022-bww8_00000042_1_17_0"
+   },
+   {
+    "height": 0.11518052307897059,
+    "focal": 134.25593784877233,
+    "tilt": 5.031091842483943,
+    "scale": 1.0,
+    "inliers": 0.6508980785296575,
+    "trajectory": "train/Dec-09-2022-bww8_00000033_0_25_0"
+   },
+   {
+    "height": 0.21204117478303638,
+    "focal": 134.25593784877233,
+    "tilt": 0.4705628603782004,
+    "scale": 1.0,
+    "inliers": 0.8397034252297411,
+    "trajectory": "train/Feb-20-2023-bww2-intloss_00000032_3_4_0"
+   },
+   {
+    "height": 0.3783424210742856,
+    "focal": 134.25593784877233,
+    "tilt": -8.969887005662711,
+    "scale": 1.0,
+    "inliers": 0.9072681704260651,
+    "trajectory": "train/Dec-06-2022-bww8_00000035_0_15_0"
+   },
+   {
+    "height": 0.2753252662387837,
+    "focal": 134.25593784877233,
+    "tilt": -6.406868566215781,
+    "scale": 1.0,
+    "inliers": 0.9654344193817878,
+    "trajectory": "train/Dec-07-2022-bww8_00000004_1_1_0"
+   },
+   {
+    "height": 0.4583190494528746,
+    "focal": 134.25593784877233,
+    "tilt": -8.184367309025976,
+    "scale": 1.0,
+    "inliers": 0.7330827067669173,
+    "trajectory": "train/Feb-16-2023-cory1-intloss_00000001_2_3_0"
+   },
+   {
+    "height": 0.33626098558472145,
+    "focal": 134.25593784877233,
+    "tilt": -8.605163133281113,
+    "scale": 1.0,
+    "inliers": 0.8200710108604845,
+    "trajectory": "train/Dec-06-2022-bww8_00000004_0_9_0"
+   },
+   {
+    "height": 0.16229869234721436,
+    "focal": 134.25593784877233,
+    "tilt": 4.3001712143446245,
+    "scale": 1.0,
+    "inliers": 0.6408730158730159,
+    "trajectory": "train/Dec-15-2022-bww8_00000006_1_17_0"
+   },
+   {
+    "height": 0.425138038480555,
+    "focal": 134.25593784877233,
+    "tilt": -9.8767714312418,
+    "scale": 1.0,
+    "inliers": 0.9406850459482038,
+    "trajectory": "train/Dec-09-2022-bww8_00000000_0_22_0"
+   },
+   {
+    "height": 0.30816880374531824,
+    "focal": 134.25593784877233,
+    "tilt": -1.2528440814103254,
+    "scale": 1.0,
+    "inliers": 0.8945279866332498,
+    "trajectory": "train/Feb-20-2023-bww2-intloss_00000045_0_2_0"
+   },
+   {
+    "height": 0.23975224594928296,
+    "focal": 134.25593784877233,
+    "tilt": -4.846898078667801,
+    "scale": 1.0,
+    "inliers": 0.8662280701754386,
+    "trajectory": "train/Feb-03-2023-bww8-intloss_00000015_4_8_0"
+   },
+   {
+    "height": 0.315230021443611,
+    "focal": 134.25593784877233,
+    "tilt": -7.870953158566434,
+    "scale": 1.0,
+    "inliers": 0.8731203007518797,
+    "trajectory": "train/Feb-20-2023-bww2-intloss_00000007_2_2_0"
+   },
+   {
+    "height": 0.17339921837965264,
+    "focal": 134.25593784877233,
+    "tilt": 1.6056750300235938,
+    "scale": 1.0,
+    "inliers": 0.6087092731829574,
+    "trajectory": "train/Nov-17-2022-bww8_00000019_0_9_0"
+   },
+   {
+    "height": 0.24451882610810563,
+    "focal": 134.25593784877233,
+    "tilt": -8.254025001144807,
+    "scale": 1.0,
+    "inliers": 0.9989557226399332,
+    "trajectory": "train/Dec-06-2022-bww8_00000005_0_1_0"
+   },
+   {
+    "height": 0.3299762672668929,
+    "focal": 134.25593784877233,
+    "tilt": -8.313059490360434,
+    "scale": 1.0,
+    "inliers": 0.8342731829573935,
+    "trajectory": "train/Feb-03-2023-bww8-intloss_00000007_0_4_0"
+   },
+   {
+    "height": 0.31533550781003233,
+    "focal": 134.25593784877233,
+    "tilt": -9.845567739447862,
+    "scale": 1.0,
+    "inliers": 0.8493107769423559,
+    "trajectory": "train/Feb-03-2023-bww8-intloss_00000000_0_8_0"
+   },
+   {
+    "height": 0.22017411919236868,
+    "focal": 134.25593784877233,
+    "tilt": -7.805539882025729,
+    "scale": 1.0,
+    "inliers": 0.9304511278195489,
+    "trajectory": "train/Jan-20-2023-bww8_00000011_2_6_0"
+   },
+   {
+    "height": 0.1514169543232972,
+    "focal": 134.25593784877233,
+    "tilt": -3.457721048062826,
+    "scale": 1.0,
+    "inliers": 0.8847117794486216,
+    "trajectory": "train/Jan-12-2023-bww8_00000001_1_1_0"
+   },
+   {
+    "height": 0.30187455643378774,
+    "focal": 134.25593784877233,
+    "tilt": -6.934431412486927,
+    "scale": 1.0,
+    "inliers": 0.7559523809523809,
+    "trajectory": "train/Dec-12-2022-bww8_00000029_4_10_0"
+   },
+   {
+    "height": 0.24351911954929126,
+    "focal": 134.25593784877233,
+    "tilt": -5.212513432007649,
+    "scale": 1.0,
+    "inliers": 0.9005847953216374,
+    "trajectory": "train/Dec-09-2022-bww8_00000014_4_5_0"
+   },
+   {
+    "height": 0.17425415388202434,
+    "focal": 134.25593784877233,
+    "tilt": 8.064501302094802,
+    "scale": 1.0,
+    "inliers": 0.5756056808688388,
+    "trajectory": "train/Feb-16-2023-bww1-intloss_00000021_0_5_0"
+   },
+   {
+    "height": 0.10597984979157046,
+    "focal": 134.25593784877233,
+    "tilt": 4.471111321483998,
+    "scale": 1.0,
+    "inliers": 0.616123642439432,
+    "trajectory": "train/Dec-09-2022-bww8_00000036_0_3_0"
+   },
+   {
+    "height": 0.24381079146128481,
+    "focal": 134.25593784877233,
+    "tilt": -7.130909965595947,
+    "scale": 1.0,
+    "inliers": 0.9211570593149541,
+    "trajectory": "train/Feb-23-2023-soda3-intloss_00000003_4_0_0"
+   },
+   {
+    "height": 0.25425606690033475,
+    "focal": 134.25593784877233,
+    "tilt": -2.3916359056454284,
+    "scale": 1.0,
+    "inliers": 0.981203007518797,
+    "trajectory": "train/Feb-27-2023-soda3-intloss_00000003_1_13_0"
+   },
+   {
+    "height": 0.33728491211610007,
+    "focal": 134.25593784877233,
+    "tilt": -7.319506628305237,
+    "scale": 1.0,
+    "inliers": 0.9468462823725982,
+    "trajectory": "train/Feb-15-2023-cory1_00000005_6_17_0"
+   },
+   {
+    "height": 0.2591691031766542,
+    "focal": 134.25593784877233,
+    "tilt": -7.408137718248858,
+    "scale": 1.0,
+    "inliers": 0.9477861319966583,
+    "trajectory": "train/Jan-16-2023-bww8_00000001_3_5_0"
+   },
+   {
+    "height": 0.15479075009640814,
+    "focal": 134.25593784877233,
+    "tilt": 0.6079757455973955,
+    "scale": 1.0,
+    "inliers": 0.6750208855472013,
+    "trajectory": "train/Dec-12-2022-bww8_00000001_0_7_0"
+   },
+   {
+    "height": 0.2651081841454771,
+    "focal": 134.25593784877233,
+    "tilt": -3.8603384085424044,
+    "scale": 1.0,
+    "inliers": 0.9476817042606517,
+    "trajectory": "train/Feb-17-2023-soda3_00000000_0_3_0"
+   },
+   {
+    "height": 0.25570779683920786,
+    "focal": 134.25593784877233,
+    "tilt": -3.440745481050731,
+    "scale": 1.0,
+    "inliers": 0.9047619047619048,
+    "trajectory": "train/Feb-17-2023-soda3_00000006_0_10_0"
+   },
+   {
+    "height": 0.2421575903590194,
+    "focal": 134.25593784877233,
+    "tilt": -5.8317041342026,
+    "scale": 1.0,
+    "inliers": 0.8592314118629908,
+    "trajectory": "train/Feb-03-2023-bww8-intloss_00000007_0_12_0"
+   },
+   {
+    "height": 0.2969445729354712,
+    "focal": 134.25593784877233,
+    "tilt": -5.663566298500356,
+    "scale": 1.0,
+    "inliers": 0.9320175438596491,
+    "trajectory": "train/Dec-12-2022-bww8_00000010_0_22_0"
+   },
+   {
+    "height": 0.33955800750496784,
+    "focal": 134.25593784877233,
+    "tilt": -5.400675458459305,
+    "scale": 1.0,
+    "inliers": 0.843358395989975,
+    "trajectory": "train/Feb-21-2023-soda3-intloss_00000003_4_1_0"
+   },
+   {
+    "height": 0.22930018294419616,
+    "focal": 134.25593784877233,
+    "tilt": -8.765710577986772,
+    "scale": 1.0,
+    "inliers": 0.9379699248120301,
+    "trajectory": "train/Jan-20-2023-bww8_00000006_2_1_0"
+   },
+   {
+    "height": 0.20530515211953743,
+    "focal": 134.25593784877233,
+    "tilt": -3.523579907712458,
+    "scale": 1.0,
+    "inliers": 0.8150584795321637,
+    "trajectory": "train/Dec-09-2022-bww8_00000001_1_11_0"
+   },
+   {
+    "height": 0.2667845279819242,
+    "focal": 134.25593784877233,
+    "tilt": -6.737734406934518,
+    "scale": 1.0,
+    "inliers": 0.7309941520467836,
+    "trajectory": "train/Feb-13-2023-bww8-intloss_00000002_3_0_0"
+   },
+   {
+    "height": 0.1461549246734188,
+    "focal": 134.25593784877233,
+    "tilt": 1.2557334224347563,
+    "scale": 1.0,
+    "inliers": 0.7088554720133667,
+    "trajectory": "train/Dec-09-2022-bww8_00000009_0_8_0"
+   },
+   {
+    "height": 0.32978704517930135,
+    "focal": 134.25593784877233,
+    "tilt": -5.579373951341165,
+    "scale": 1.0,
+    "inliers": 0.5883458646616542,
+    "trajectory": "train/Feb-03-2023-bww8-intloss_00000001_1_0_0"
+   },
+   {
+    "height": 0.23621729323525742,
+    "focal": 134.25593784877233,
+    "tilt": -4.942178756773065,
+    "scale": 1.0,
+    "inliers": 0.9226190476190477,
+    "trajectory": "train/Dec-06-2022-bww8_00000007_2_0_0"
+   },
+   {
+    "height": 0.2496203795840785,
+    "focal": 134.25593784877233,
+    "tilt": -0.30417956095095705,
+    "scale": 1.0,
+    "inliers": 0.5887635756056808,
+    "trajectory": "train/Dec-09-2022-bww8_00000031_0_27_0"
+   }
+  ]
+ },
+ "recon": {
+  "height": 0.45777141093588825,
+  "focal": 268.51187569754467,
+  "tilt_deg": 4.309378765341295,
+  "n": 60,
+  "spread": {
+   "height": [
+    0.37369817488005597,
+    0.555775080429906
+   ],
+   "focal": [
+    268.51187569754467,
+    268.51187569754467
+   ],
+   "tilt": [
+    1.4258199463317442,
+    7.039567864376836
+   ],
+   "scale": [
+    1.0,
+    1.0
+   ]
+  },
+  "undistorted": true,
+  "videos": [
+   {
+    "height": 0.5500605187643843,
+    "focal": 268.51187569754467,
+    "tilt": -0.12325966309266505,
+    "scale": 1.0,
+    "inliers": 0.5887635756056808,
+    "trajectory": "train/jackal_2019-12-23-14-13-11_4_r01_3_0"
+   },
+   {
+    "height": 0.574733624826927,
+    "focal": 268.51187569754467,
+    "tilt": 0.8864143621348106,
+    "scale": 1.0,
+    "inliers": 0.8968253968253969,
+    "trajectory": "train/jackal_2019-08-29-16-54-48_0_r02_0_0"
+   },
+   {
+    "height": 0.869559439952738,
+    "focal": 268.51187569754467,
+    "tilt": 5.816584044129603,
+    "scale": 1.0,
+    "inliers": 0.7980367585630743,
+    "trajectory": "train/jackal_2019-09-17-17-29-40_1_r02_1_0"
+   },
+   {
+    "height": 0.44034610305883304,
+    "focal": 268.51187569754467,
+    "tilt": 6.853689193626195,
+    "scale": 1.0,
+    "inliers": 0.7006056808688388,
+    "trajectory": "train/jackal_2019-08-08-17-04-33_22_r01_0_0"
+   },
+   {
+    "height": 0.5124730337206262,
+    "focal": 268.51187569754467,
+    "tilt": 1.9871366116873268,
+    "scale": 1.0,
+    "inliers": 0.8898287385129491,
+    "trajectory": "train/jackal_2019-08-02-17-05-37_29_r00_1_0"
+   },
+   {
+    "height": 0.5233411042530527,
+    "focal": 268.51187569754467,
+    "tilt": 4.293467003598807,
+    "scale": 1.0,
+    "inliers": 0.8831453634085213,
+    "trajectory": "train/jackal_2019-08-29-15-42-35_3_r03_5_0"
+   },
+   {
+    "height": 0.4480704167978175,
+    "focal": 268.51187569754467,
+    "tilt": 1.2197497843549707,
+    "scale": 1.0,
+    "inliers": 0.6456766917293233,
+    "trajectory": "train/jackal_2019-09-12-18-04-11_4_r03_2_0"
+   },
+   {
+    "height": 0.3830570365620728,
+    "focal": 268.51187569754467,
+    "tilt": 3.1010052803029358,
+    "scale": 1.0,
+    "inliers": 0.752297410192147,
+    "trajectory": "train/jackal_2019-08-18-17-08-12_12_r03_0_0"
+   },
+   {
+    "height": 0.5026389740899028,
+    "focal": 268.51187569754467,
+    "tilt": 7.258534152910169,
+    "scale": 1.0,
+    "inliers": 0.8211152882205514,
+    "trajectory": "train/jackal_2019-08-02-17-42-37_66_r00_3_0"
+   },
+   {
+    "height": 0.4991543053498723,
+    "focal": 268.51187569754467,
+    "tilt": 7.000963533525852,
+    "scale": 1.0,
+    "inliers": 0.6860902255639098,
+    "trajectory": "train/jackal_2019-08-13-15-40-03_5_r01_1_0"
+   },
+   {
+    "height": 0.30824184499238666,
+    "focal": 268.51187569754467,
+    "tilt": 13.75353278495688,
+    "scale": 1.0,
+    "inliers": 0.6102756892230576,
+    "trajectory": "train/jackal_2019-08-08-17-49-25_1_r00_4_0"
+   },
+   {
+    "height": 0.30411214410248044,
+    "focal": 268.51187569754467,
+    "tilt": 5.5994337626288075,
+    "scale": 1.0,
+    "inliers": 0.6904761904761905,
+    "trajectory": "train/jackal_2019-08-18-18-29-41_3_r01_0_0"
+   },
+   {
+    "height": 0.17014835413956397,
+    "focal": 268.51187569754467,
+    "tilt": 15.717286756359757,
+    "scale": 1.0,
+    "inliers": 0.5256892230576441,
+    "trajectory": "train/jackal_2019-08-08-17-13-33_31_r02_0_0"
+   },
+   {
+    "height": 0.5117611326849373,
+    "focal": 268.51187569754467,
+    "tilt": -1.729894590709399,
+    "scale": 1.0,
+    "inliers": 0.8406432748538012,
+    "trajectory": "train/jackal_2019-08-13-16-54-26_42_r01_1_0"
+   },
+   {
+    "height": 0.8242410659663658,
+    "focal": 268.51187569754467,
+    "tilt": -6.592969457113797,
+    "scale": 1.0,
+    "inliers": 0.7739139515455304,
+    "trajectory": "train/jackal_2019-12-19-15-29-51_10_r01_12_0"
+   },
+   {
+    "height": 0.2844752013510637,
+    "focal": 268.51187569754467,
+    "tilt": 7.869699884027558,
+    "scale": 1.0,
+    "inliers": 0.6218671679197995,
+    "trajectory": "train/jackal_2019-08-08-14-09-45_28_r01_1_0"
+   },
+   {
+    "height": 0.7012055048825547,
+    "focal": 268.51187569754467,
+    "tilt": 2.6508042021677483,
+    "scale": 1.0,
+    "inliers": 0.9264828738512949,
+    "trajectory": "train/jackal_2019-10-20-14-56-46_0_r03_1_0"
+   },
+   {
+    "height": 1.0151799527534517,
+    "focal": 268.51187569754467,
+    "tilt": 6.138174464036404,
+    "scale": 1.0,
+    "inliers": 0.7485380116959064,
+    "trajectory": "train/jackal_2019-08-13-15-51-57_9_r01_0_0"
+   },
+   {
+    "height": 0.34637077784164927,
+    "focal": 268.51187569754467,
+    "tilt": 9.547566953712044,
+    "scale": 1.0,
+    "inliers": 0.6562238930659984,
+    "trajectory": "train/jackal_2019-08-18-17-42-54_0_r02_1_0"
+   },
+   {
+    "height": 0.4492505548336432,
+    "focal": 268.51187569754467,
+    "tilt": 0.4220596033567068,
+    "scale": 1.0,
+    "inliers": 0.9389097744360902,
+    "trajectory": "train/jackal_2019-08-20-13-59-33_15_r02_0_0"
+   },
+   {
+    "height": 0.4675541549320586,
+    "focal": 268.51187569754467,
+    "tilt": 6.164657989226955,
+    "scale": 1.0,
+    "inliers": 0.8085839598997494,
+    "trajectory": "train/jackal_2019-10-31-16-02-57_1_r05_0_0"
+   },
+   {
+    "height": 0.3289044687311288,
+    "focal": 268.51187569754467,
+    "tilt": 5.815199318356988,
+    "scale": 1.0,
+    "inliers": 0.7152255639097744,
+    "trajectory": "train/jackal_2019-09-12-16-35-09_12_r00_4_0"
+   },
+   {
+    "height": 0.4560269762148818,
+    "focal": 268.51187569754467,
+    "tilt": 2.0807810236177953,
+    "scale": 1.0,
+    "inliers": 0.881265664160401,
+    "trajectory": "train/jackal_2019-10-24-15-07-21_2_r02_0_0"
+   },
+   {
+    "height": 0.6595192083742116,
+    "focal": 268.51187569754467,
+    "tilt": 3.746935317019532,
+    "scale": 1.0,
+    "inliers": 0.7627401837928154,
+    "trajectory": "train/jackal_2019-09-09-15-04-00_38_r00_0_0"
+   },
+   {
+    "height": 0.4275010759255123,
+    "focal": 268.51187569754467,
+    "tilt": 3.1813432440920657,
+    "scale": 1.0,
+    "inliers": 0.7178362573099415,
+    "trajectory": "train/jackal_2019-12-19-13-34-43_0_r01_0_0"
+   },
+   {
+    "height": 0.27723779221812084,
+    "focal": 268.51187569754467,
+    "tilt": 7.460701253868744,
+    "scale": 1.0,
+    "inliers": 0.5018796992481203,
+    "trajectory": "train/jackal_2020-01-04-15-30-11_9_r00_3_0"
+   },
+   {
+    "height": 0.3218757979424432,
+    "focal": 268.51187569754467,
+    "tilt": 9.106729281147317,
+    "scale": 1.0,
+    "inliers": 0.6385756056808688,
+    "trajectory": "train/jackal_2019-08-18-17-05-12_9_r01_1_0"
+   },
+   {
+    "height": 0.5878687262974297,
+    "focal": 268.51187569754467,
+    "tilt": 1.481238780816614,
+    "scale": 1.0,
+    "inliers": 0.7291144527986633,
+    "trajectory": "train/jackal_2019-08-15-16-05-21_22_r03_0_0"
+   },
+   {
+    "height": 0.7665097860183087,
+    "focal": 268.51187569754467,
+    "tilt": 11.162592819629443,
+    "scale": 1.0,
+    "inliers": 0.6097535505430243,
+    "trajectory": "train/jackal_2020-01-03-13-09-17_4_r01_7_0"
+   },
+   {
+    "height": 0.4150800102506107,
+    "focal": 268.51187569754467,
+    "tilt": 6.453659800816669,
+    "scale": 1.0,
+    "inliers": 0.670843776106934,
+    "trajectory": "train/jackal_2019-09-12-16-20-46_14_r00_0_0"
+   },
+   {
+    "height": 0.6135012387352726,
+    "focal": 268.51187569754467,
+    "tilt": 1.650923592659551,
+    "scale": 1.0,
+    "inliers": 0.6752297410192147,
+    "trajectory": "train/jackal_2019-08-27-16-53-55_20_r00_2_0"
+   },
+   {
+    "height": 0.6396005674995272,
+    "focal": 268.51187569754467,
+    "tilt": -3.554618848856617,
+    "scale": 1.0,
+    "inliers": 0.7634711779448622,
+    "trajectory": "train/jackal_2019-08-20-18-10-19_27_r00_0_0"
+   },
+   {
+    "height": 0.23317789518155455,
+    "focal": 268.51187569754467,
+    "tilt": 14.246837761690218,
+    "scale": 1.0,
+    "inliers": 0.5383249791144528,
+    "trajectory": "train/jackal_2019-08-29-13-29-03_1_r00_3_0"
+   },
+   {
+    "height": 0.45951584565689474,
+    "focal": 268.51187569754467,
+    "tilt": 4.325290527083784,
+    "scale": 1.0,
+    "inliers": 0.8003341687552213,
+    "trajectory": "train/jackal_2019-08-08-17-22-22_4_r02_7_0"
+   },
+   {
+    "height": 0.2948049263874529,
+    "focal": 268.51187569754467,
+    "tilt": 4.63632392818949,
+    "scale": 1.0,
+    "inliers": 0.6139306599832915,
+    "trajectory": "train/jackal_2019-09-09-14-15-57_15_r01_3_0"
+   },
+   {
+    "height": 0.3394246983514353,
+    "focal": 268.51187569754467,
+    "tilt": 5.167545789319737,
+    "scale": 1.0,
+    "inliers": 0.8402255639097744,
+    "trajectory": "train/jackal_2019-12-21-15-16-38_6_r01_1_0"
+   },
+   {
+    "height": 0.47007880141636543,
+    "focal": 268.51187569754467,
+    "tilt": 5.1924998874086254,
+    "scale": 1.0,
+    "inliers": 0.6016081871345029,
+    "trajectory": "train/jackal_2019-08-20-15-29-11_43_r01_0_0"
+   },
+   {
+    "height": 0.14097080170721474,
+    "focal": 268.51187569754467,
+    "tilt": 19.06396491906427,
+    "scale": 1.0,
+    "inliers": 0.5257936507936508,
+    "trajectory": "train/jackal_2019-10-24-15-10-52_0_r04_0_0"
+   },
+   {
+    "height": 0.31789251263879736,
+    "focal": 268.51187569754467,
+    "tilt": 8.480325684847099,
+    "scale": 1.0,
+    "inliers": 0.5969089390142022,
+    "trajectory": "train/jackal_2019-08-29-14-36-17_1_r01_2_0"
+   },
+   {
+    "height": 0.2439654027600464,
+    "focal": 268.51187569754467,
+    "tilt": 11.075241696866632,
+    "scale": 1.0,
+    "inliers": 0.6005639097744361,
+    "trajectory": "train/jackal_2019-08-29-16-14-35_0_r02_4_0"
+   },
+   {
+    "height": 0.6943231128959828,
+    "focal": 268.51187569754467,
+    "tilt": 0.13351641947813414,
+    "scale": 1.0,
+    "inliers": 0.746031746031746,
+    "trajectory": "train/jackal_2019-08-29-16-59-25_0_r02_2_0"
+   },
+   {
+    "height": 0.4710607829656383,
+    "focal": 268.51187569754467,
+    "tilt": -0.8137952319558734,
+    "scale": 1.0,
+    "inliers": 0.8250835421888053,
+    "trajectory": "train/jackal_2019-08-29-13-10-51_31_r01_2_0"
+   },
+   {
+    "height": 0.6098435247756017,
+    "focal": 268.51187569754467,
+    "tilt": 2.6522586127532715,
+    "scale": 1.0,
+    "inliers": 0.7282790309106099,
+    "trajectory": "train/jackal_2019-09-12-15-28-34_35_r00_3_0"
+   },
+   {
+    "height": 0.4836215350188084,
+    "focal": 268.51187569754467,
+    "tilt": 8.72351342625346,
+    "scale": 1.0,
+    "inliers": 0.7207602339181286,
+    "trajectory": "train/jackal_2019-09-19-11-47-51_1_r00_0_0"
+   },
+   {
+    "height": 0.5270930451920609,
+    "focal": 268.51187569754467,
+    "tilt": 2.0268148859144004,
+    "scale": 1.0,
+    "inliers": 0.820906432748538,
+    "trajectory": "train/jackal_2019-08-29-13-49-44_0_r01_3_0"
+   },
+   {
+    "height": 0.5729187654264707,
+    "focal": 268.51187569754467,
+    "tilt": 6.929152510180205,
+    "scale": 1.0,
+    "inliers": 0.8282163742690059,
+    "trajectory": "train/jackal_2019-08-15-18-38-03_17_r00_5_0"
+   },
+   {
+    "height": 0.33141241532225163,
+    "focal": 268.51187569754467,
+    "tilt": 7.155380856929787,
+    "scale": 1.0,
+    "inliers": 0.6602965747702589,
+    "trajectory": "train/jackal_2019-08-08-13-45-45_4_r01_4_0"
+   },
+   {
+    "height": 0.5787471452557125,
+    "focal": 268.51187569754467,
+    "tilt": 5.242860479137994,
+    "scale": 1.0,
+    "inliers": 0.8004385964912281,
+    "trajectory": "train/jackal_2019-10-31-16-42-10_21_r00_4_0"
+   },
+   {
+    "height": 0.40120150458953435,
+    "focal": 268.51187569754467,
+    "tilt": 3.9019809860492356,
+    "scale": 1.0,
+    "inliers": 0.7571010860484545,
+    "trajectory": "train/jackal_2019-09-17-15-25-52_38_r01_0_0"
+   },
+   {
+    "height": 0.4398781970172466,
+    "focal": 268.51187569754467,
+    "tilt": -1.017683274858781,
+    "scale": 1.0,
+    "inliers": 0.6248955722639933,
+    "trajectory": "train/jackal_2019-08-06-14-09-43_16_r00_0_0"
+   },
+   {
+    "height": 0.4706190360849331,
+    "focal": 268.51187569754467,
+    "tilt": 2.2831139170519403,
+    "scale": 1.0,
+    "inliers": 0.806704260651629,
+    "trajectory": "train/jackal_2019-08-29-13-07-51_28_r01_1_0"
+   },
+   {
+    "height": 0.38280730722619155,
+    "focal": 268.51187569754467,
+    "tilt": 7.810793016398611,
+    "scale": 1.0,
+    "inliers": 0.743421052631579,
+    "trajectory": "train/jackal_2019-10-31-10-56-02_7_r02_0_0"
+   },
+   {
+    "height": 0.38677797663430147,
+    "focal": 268.51187569754467,
+    "tilt": 6.516605808554124,
+    "scale": 1.0,
+    "inliers": 0.7492690058479532,
+    "trajectory": "train/jackal_2019-09-09-14-56-00_30_r03_0_0"
+   },
+   {
+    "height": 0.5073028912387234,
+    "focal": 268.51187569754467,
+    "tilt": 1.259563442877135,
+    "scale": 1.0,
+    "inliers": 0.8505639097744361,
+    "trajectory": "train/jackal_2019-08-15-18-36-03_15_r02_2_0"
+   },
+   {
+    "height": 0.44187317448358665,
+    "focal": 268.51187569754467,
+    "tilt": 3.9634989054732244,
+    "scale": 1.0,
+    "inliers": 0.6676065162907269,
+    "trajectory": "train/jackal_2019-08-27-15-56-20_2_r01_2_0"
+   },
+   {
+    "height": 0.43526412822254235,
+    "focal": 268.51187569754467,
+    "tilt": 3.5518318337253296,
+    "scale": 1.0,
+    "inliers": 0.8469089390142022,
+    "trajectory": "train/jackal_2019-09-09-16-49-52_55_r00_1_0"
+   },
+   {
+    "height": 0.4539995550614742,
+    "focal": 268.51187569754467,
+    "tilt": -1.444472599076822,
+    "scale": 1.0,
+    "inliers": 0.6048454469507101,
+    "trajectory": "train/jackal_2019-09-12-16-19-46_13_r00_1_0"
+   },
+   {
+    "height": 0.7755157625369967,
+    "focal": 268.51187569754467,
+    "tilt": -21.462647543399974,
+    "scale": 1.0,
+    "inliers": 0.5257936507936508,
+    "trajectory": "train/jackal_2019-12-19-16-02-09_4_r01_3_0"
+   },
+   {
+    "height": 0.4968026950593289,
+    "focal": 268.51187569754467,
+    "tilt": 0.677490659608485,
+    "scale": 1.0,
+    "inliers": 0.7552213868003341,
+    "trajectory": "train/jackal_2019-08-20-15-11-11_25_r01_1_0"
+   },
+   {
+    "height": 0.4094664856151486,
+    "focal": 268.51187569754467,
+    "tilt": 0.016080374756173858,
+    "scale": 1.0,
+    "inliers": 0.5365497076023392,
+    "trajectory": "train/jackal_2020-01-04-15-02-25_0_r00_3_0"
+   }
+  ]
+ }
+}

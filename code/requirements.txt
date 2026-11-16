@@ -1,0 +1,13 @@
+numpy
+pillow
+tqdm
+pyyaml
+matplotlib
+transformers
+accelerate
+peft
+timm
+open_clip_torch
+sentence-transformers
+diffusers
+einops
