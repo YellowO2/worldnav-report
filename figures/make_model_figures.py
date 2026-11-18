@@ -118,8 +118,31 @@ def initial_model():
     return svg(1300, 300, '\n'.join(b))
 
 
+def final_model():
+    """The current design for the README: the same pipeline with Qwen fine-tuned, everything trained together."""
+    b = [photo(20, 20, 150), instruction(20, 168),
+         text(20, 264, 'camera: height, lens, tilt', 11.5, 'start', GREY, 'italic'),
+         module(290, 30, 200, 190, 'Qwen3.5-4B', ['vision-language model', 'fine-tuned (LoRA)']),
+         module(290, 235, 200, 50, 'Linear', []),
+         module(680, 95, 180, 150, 'Transformer', ['4 encoder + 2 decoder', 'layers, d = 256']),
+         module(940, 130, 120, 80, 'Linear', ['32 outputs']),
+         route_sketch(1170, 60, 100, 150),
+         arrow([(170, 76), (290, 76)]), arrow([(205, 188), (290, 188)]),
+         arrow([(190, 260), (290, 260)]),
+         arrow([(490, 100), (530, 100), (530, 125), (680, 125)], '64 photo cell tokens'),
+         arrow([(490, 170), (680, 170)], '2 summary tokens'),
+         arrow([(490, 260), (530, 260), (530, 215), (680, 215)], 'camera token'),
+         arrow([(860, 170), (940, 170)]), arrow([(1060, 170), (1150, 170)], '16 points'),
+         f'<path d="M290,305 L290,312 L1060,312 L1060,305" fill="none" stroke="{GREY}" stroke-width="1"/>',
+         text(675, 330, 'trained end to end on the competition score', 12, color=GREY),
+         text(1220, 240, 'route, cut into moves', 12, color=GREY),
+         text(1220, 256, "at the robot's typical step", 12, color=GREY)]
+    return svg(1300, 345, '\n'.join(b))
+
+
 if __name__ == '__main__':
-    for name, fn in (('fig5_1_start_model', start_model), ('fig5_2_initial_model', initial_model)):
+    for name, fn in (('fig5_1_start_model', start_model), ('fig5_2_initial_model', initial_model),
+                     ('architecture', final_model)):
         open(os.path.join(HERE, name + '.svg'), 'w').write(fn())
         subprocess.run(['rsvg-convert', '-z', '2', '-o', os.path.join(HERE, name + '.png'),
                         os.path.join(HERE, name + '.svg')], check=True)

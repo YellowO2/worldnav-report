@@ -1,4 +1,8 @@
-We participated in RoboWorld 2026 Track 1.
+We participated in RoboWorld 2026 Track 1 and obtained 3rd place as of nov 16.
+
+Architecture:
+
+![Model architecture](figures/architecture.png)
 
 Competition page: https://www.codabench.org/competitions/18185/#/results-tab
 
