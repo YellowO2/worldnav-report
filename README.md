@@ -1,4 +1,4 @@
-We participated in RoboWorld 2026 Track 1 and obtained 3rd place as of nov 16.
+We participated in [RoboWorld 2026 Track 1](https://roboworld2026.github.io/track1.html) and obtained 3rd place as of nov 16.
 
 Architecture:
 
